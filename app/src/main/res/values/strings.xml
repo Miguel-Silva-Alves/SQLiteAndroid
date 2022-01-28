@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteAndroid</string>
+    <string name="warning">Atenção, se continuar com essa operação não haverá possibilidade de recuperação dos dados. Deseja realmente continuar essa ação?</string>
+</resources>
